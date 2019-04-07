@@ -4,6 +4,7 @@ import java.util.Arrays;
 /**
  * @author Kaleab Mekonen
  */
+
 public class Board
 {
     // Board size
